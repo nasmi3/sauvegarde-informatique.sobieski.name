@@ -2,7 +2,7 @@
 ID: 69
 post_title: Accueil
 author: Alexandre
-post_date: 2018-07-06 22:27:24
+post_date: 2020-09-21 15:05:20
 layout: page
 link: >
   http://sobieski.name/informatique/?page_id=69
