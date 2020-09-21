@@ -1,12 +1,12 @@
 ---
 ID: 49
 post_title: Bientôt
+post_name: bientot
 author: Alexandre
-post_excerpt: ""
-layout: page
-permalink: http://sobieski.name/informatique/
-published: true
 post_date: 2018-07-06 19:07:15
+layout: page
+link: http://sobieski.name/informatique/
+published: true
 tags: [ ]
 categories: [ ]
 ---
